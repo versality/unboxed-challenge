@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/aterris/simplecov-shield/badge.svg?branch=master)](https://coveralls.io/github/aterris/simplecov-shield?branch=master)
+
 # Unboxed Challenge
 
 ## Framework
